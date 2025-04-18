@@ -3,12 +3,12 @@
     background-color:  #dcc9f4;     
     margin: 20px auto;
     text-align: center;
-    .top-child{
-        width: 20%;
-        background-color:#ffd9df ;
-        display: inline-block;
-    }
   }
+  .top-child{
+    width: 20%;
+    background-color:#ffd9df ;
+    display: inline-block;
+}
   #middle{
     width: 800px;
     height: 800px;
@@ -44,11 +44,12 @@
     width: 400px;
     height: 100px;
     background-color:#e5dcf0 ;
-    position: relative;
   }
   #bottom-child02{
     left: 200px;
+    position: relative;
   }
   #bottom-child03{
     left: 400px;
+    position: relative;
   }
